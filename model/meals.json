@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Lag'mon 🍝",
+        "price": "22 000 ",
+        "description": "Qovurma Uyg'ur Lag'moni",
+        "photo": "https://4.bp.blogspot.com/-z2-jRUiJ-dE/WoGCh99oBrI/AAAAAAAAAG4/g3AMaBD6_b8q5Y9hbqFbM7noIrynAGCogCLcBGAs/s1600/chozma%2Blag%2527mon.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Osh 🥘",
+        "price": "25 000",
+        "description": "To'y oshi",
+        "photo": "https://storage.kun.uz/source/4/16-UGEoTuFOZ2-4iiF1J1hNfUP0XQqcY.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Tandir 🍖",
+        "price": "85 000",
+        "description": "Qo'y go'shtidan",
+        "photo": "https://saten.uz/oc-content/uploads/14/3355_preview.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Kabob 🍗",
+        "price": "15 000",
+        "description": "Mol goshtidan",
+        "photo": "https://www.momontimeout.com/wp-content/uploads/2020/07/grilled-steak-kabobs-ready-to-eat-on-wood-plate-square.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Manti 🥩",
+        "price": " 12 000",
+        "description": "Qo'y go'shtidan manti",
+        "photo": "https://www.yummytemple.com/wp-content/uploads/2022/04/Manti-with-meat-and-onions-Uzbek-style-1200x798.jpg"
+    }
+]
